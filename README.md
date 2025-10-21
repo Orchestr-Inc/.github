@@ -1,2 +1,2 @@
-# Orchestr
-We are an international company focused on EEG + Robotic & Aerospace
+# Our github organization mainpage repo
+To make contribute, please edit /profile/README.md.
