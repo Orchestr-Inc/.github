@@ -19,7 +19,7 @@ Large vision and language models run locally.
 
 # 🛩️ Orch Avionic 1
 
-
+![Orch Avionic 1](./Avionic1-Profile.png)
 
 > Above image is our Mark 1 pathfinder model.  
 > Final product may differ in shape or form.
