@@ -1,7 +1,5 @@
 # ORCH AVIONICS®
 
----
-
 ## ✈️ Introducing Orch Avionic 1 EFB
 
 ### Your Predictive* Copilot in GA Flying  
