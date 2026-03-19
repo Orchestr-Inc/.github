@@ -1,6 +1,6 @@
 # ORCH AVIONICS®
 
-> To update the front page on GitHub organization home, please edit `/profile/README.md`.
+> To update the front page on GitHub organization, please edit `/profile/README.md`.
 
 ---
 
