@@ -17,7 +17,7 @@ Large vision and language models run locally.
 
 ---
 
-# 🛩️ Orch Avionic 1 (Early Prototype)
+# 🛩️ Orch Avionic 1 (Demo Prototype)
 
 ![Orch Avionic 1](./Avionic1-Profile.png)
 
