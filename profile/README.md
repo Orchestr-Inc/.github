@@ -2,7 +2,7 @@
 
 ---
 
-## ✈️ Introducing Orch Avionic 1 EFB — NEW
+## ✈️ Introducing Orch Avionic 1 EFB
 
 ### Your Predictive* Copilot in GA Flying  
 ### Votre copilote prédictif* en aviation générale
@@ -17,7 +17,7 @@ Large vision and language models run locally.
 
 ---
 
-# 🛩️ Orch Avionic 1 (Early Pathfinder)
+# 🛩️ Orch Avionic 1 (Early Prototype)
 
 ![Orch Avionic 1](./Avionic1-Profile.png)
 
