@@ -120,5 +120,5 @@ _(routes to john@orchestrsim.com)_
 
 ## 📬 General Contact
 
-📧 **contact@orchavionics.com**  
+📧 **contact@orchestrsim.com**  
 _(alias of orchestr@orchestrsim.com → john@orchestrsim.com)_
