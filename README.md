@@ -73,12 +73,7 @@ We welcome contributions across:
 - AI / ML (edge inference)  
 - Flight data systems  
 - UI/UX for cockpit environments  
-- Simulation & visualization  
-
-To contribute:
-
-👉 Edit [`/profile/README.md`](./profile/README.md)  
-👉 Open a pull request  
+- Simulation & visualization
 
 ---
 
