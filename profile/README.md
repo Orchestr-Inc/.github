@@ -15,7 +15,9 @@ Large vision and language models run locally.
 
 ---
 
-# 🛩️ Orch Avionic 1 (Software Development Still in Progress)
+# 🛩️ Orch Avionic 1 EFB Pathfinder 
+
+(Software Development Still in Progress)
 
 ![Orch Avionic 1](./Avionic1-Profile.png)
 
